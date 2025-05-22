@@ -251,3 +251,21 @@ Verifies API routing.
 * **cookie-parser**: Cookie parsing
 * **dotenv**: Environment configuration
 * **validator**: Input validation
+
+## Screenshots
+<img width="1512" alt="Screenshot 2025-05-22 at 9 25 39 AM" src="https://github.com/user-attachments/assets/de913e69-ba9d-4520-82e5-cf92077c3f86" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 25 42 AM" src="https://github.com/user-attachments/assets/e581be4e-6ab8-47c3-a97a-c4b2525550ba" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 33 22 AM" src="https://github.com/user-attachments/assets/342f06c7-4b11-4308-aa67-42ecb42bcfdd" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 34 43 AM" src="https://github.com/user-attachments/assets/9aca901d-02d9-4844-ad6c-6086808a4a05" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 36 56 AM" src="https://github.com/user-attachments/assets/02759833-fed6-4944-bc25-b9d0a1bf90ad" />
+![Screenshot 2025-05-22 at 9 39 15 AM](https://github.com/user-attachments/assets/bb28cf38-4c65-4622-b459-d10487efbac4)
+<img width="1512" alt="Screenshot 2025-05-22 at 9 40 14 AM" src="https://github.com/user-attachments/assets/2f35b2ee-2b62-4f95-9d0e-1cb2535784b3" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 41 05 AM" src="https://github.com/user-attachments/assets/8e922bed-edbe-408d-9fa2-77f72f840c96" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 41 57 AM" src="https://github.com/user-attachments/assets/bc58734e-d755-4f05-b1a3-020262dcbba1" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 44 07 AM" src="https://github.com/user-attachments/assets/c365443c-278c-4090-93c2-e5fa67f252b8" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 45 07 AM" src="https://github.com/user-attachments/assets/8b50f539-2f39-4929-ba0c-335615a1e055" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 45 23 AM" src="https://github.com/user-attachments/assets/aeb27eba-0a5b-4839-8bd7-ca0c1edebc31" />
+<img width="1512" alt="Screenshot 2025-05-22 at 9 46 02 AM" src="https://github.com/user-attachments/assets/a80593db-b50c-4a72-831f-e9329dbd75ba" />
+![Screenshot 2025-05-22 at 9 51 03 AM](https://github.com/user-attachments/assets/f06ed783-db97-4dd1-8c93-528c5fe6a527)
+<img width="1512" alt="Screenshot 2025-05-22 at 10 21 13 AM" src="https://github.com/user-attachments/assets/6c690f00-0fb7-4090-becb-b4cee5e2f9e5" />
+<img width="1512" alt="Screenshot 2025-05-22 at 10 22 31 AM" src="https://github.com/user-attachments/assets/c3578344-8e9c-402b-8566-6259aa5debc5" />
