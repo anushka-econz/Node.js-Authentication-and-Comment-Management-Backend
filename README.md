@@ -256,6 +256,7 @@ Verifies API routing.
 * **Successful connection**:
 <img width="1512" alt="Screenshot 2025-05-22 at 9 25 39 AM" src="https://github.com/user-attachments/assets/de913e69-ba9d-4520-82e5-cf92077c3f86" />
 <img width="1512" alt="Screenshot 2025-05-22 at 9 25 42 AM" src="https://github.com/user-attachments/assets/e581be4e-6ab8-47c3-a97a-c4b2525550ba" />
+
 * **User Signup**:
 <img width="1512" alt="Screenshot 2025-05-22 at 9 33 22 AM" src="https://github.com/user-attachments/assets/342f06c7-4b11-4308-aa67-42ecb42bcfdd" />
 * **Specific Role signup (admin)**:
